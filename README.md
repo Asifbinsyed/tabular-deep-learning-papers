@@ -4,9 +4,9 @@
 
 | Paper Name | Venue/Journal | Year | Paper Link | GitHub Link |
 |------------|--------------|------|------------|-------------|
-| LLM Finetuning Techniques | - | 2024 | - | [Code](LLM_Finetunig/) |
-| Time Series Missing Data Analysis | - | 2024 | - | [Code](timeseries_missing_data/) |
-| Tabular Deep Learning | - | 2024 | - | [Code](tabular-deep-learning-papers/) |
+| [LLM Finetuning Techniques](#llm-finetuning-techniques) | - | 2024 | - | [Code](LLM_Finetunig/) |
+| [Time Series Missing Data Analysis](#time-series-missing-data-analysis) | - | 2024 | - | [Code](timeseries_missing_data/) |
+| [Tabular Deep Learning](#tabular-deep-learning) | - | 2024 | - | [Code](tabular-deep-learning-papers/) |
 
 ## Papers by Year
 

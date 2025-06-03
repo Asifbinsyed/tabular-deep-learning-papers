@@ -2,11 +2,11 @@
 
 ## Paper Collection
 
-| Paper Name | Venue/Journal | Year | Paper Link | Contribution | GitHub Link |
-|------------|--------------|------|------------|--------------|-------------|
-| LLM Finetuning Techniques | - | 2024 | - | Implementation of various LLM finetuning approaches | [Code](LLM_Finetunig/) |
-| Time Series Missing Data Analysis | - | 2024 | - | Methods for handling missing data in time series | [Code](timeseries_missing_data/) |
-| Tabular Deep Learning | - | 2024 | - | Collection of tabular deep learning implementations | [Code](tabular-deep-learning-papers/) |
+| Paper Name | Venue/Journal | Year | Paper Link | GitHub Link |
+|------------|--------------|------|------------|-------------|
+| LLM Finetuning Techniques | - | 2024 | - | [Code](LLM_Finetunig/) |
+| Time Series Missing Data Analysis | - | 2024 | - | [Code](timeseries_missing_data/) |
+| Tabular Deep Learning | - | 2024 | - | [Code](tabular-deep-learning-papers/) |
 
 ## Papers by Year
 
@@ -40,32 +40,5 @@
   - Implementation focus: Various RL algorithms and techniques
   - Directory: [Reinforcement_Learning/](Reinforcement_Learning/)
 
-## Repository Structure
-```
-├── Deep-learning/         # Deep learning implementations
-├── LLM_Finetunig/        # LLM finetuning implementations
-├── ML_ALL/               # Machine learning algorithms
-├── Reinforcement_Learning/# RL implementations
-├── Research/             # Research papers and implementations
-├── transformer/          # Transformer architectures
-└── timeseries_missing_data/ # Time series analysis
-```
 
-## How to Use
-1. Each paper implementation is organized in its own directory
-2. Navigate to specific year sections to find papers from that period
-3. Check the table at the top for a quick overview
-4. Each implementation directory contains its own README with specific setup instructions
 
-## Contributing
-1. Feel free to add new paper implementations
-2. Update both the table and year-wise sections when adding new papers
-3. Follow the existing format for consistency
-4. Include proper documentation and requirements for each implementation
-
-## Requirements
-- See individual project directories for specific requirements
-- Most projects include a `requirements.txt` or similar dependency file
-
-## License
-See individual project directories for specific licensing information.

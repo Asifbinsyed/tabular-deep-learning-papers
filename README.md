@@ -7,6 +7,7 @@
 | [LLM Finetuning Techniques](#llm-finetuning-techniques) | - | 2024 | - | [Code](LLM_Finetunig/) |
 | [Time Series Missing Data Analysis](#time-series-missing-data-analysis) | - | 2024 | - | [Code](timeseries_missing_data/) |
 | [Tabular Deep Learning](#tabular-deep-learning) | - | 2024 | - | [Code](tabular-deep-learning-papers/) |
+| [TabTransformer](#tabtransformer) | arXiv | 2020 | [PDF](papers_pdf/tabtransformer.pdf) | [GitHub](https://github.com/lucidrains/tab-transformer-pytorch) |
 
 ## Papers by Year
 
@@ -46,3 +47,9 @@
 
 
 
+### 2021
+
+- **[TabTransformer](#tabtransformer)**
+  - Implementation focus: Transformer-based model for tabular data
+  - Key contributions: Introduces contextual embeddings for categorical features
+  - Paper: [PDF](papers_pdf/tabtransformer.pdf)
